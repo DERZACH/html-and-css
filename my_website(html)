@@ -1,0 +1,44 @@
+<!DOCTYPEhtml>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>HELLO WORLD</title>
+
+</head>
+
+<body>
+    <h1>HELLO WORLD</h1>
+    <h2>HELLO WORLD</h2>
+    <h3>HELLO WORLD</h3>
+    <h4>HELLO WORLD</h4>
+    <h5>HELLO WORLD</h5>
+    <h6>HELLO WORLD</h6>
+    <p class="paragraph-1">HELLO WORLD HELLO WORLD HELLO WORLD 1</p>
+    <p class="paragraph-2">HELLO WORLD HELLO WORLD HELLO WORLD 2</p>
+    <p class="paragraph-3">HELLO WORLD HELLO WORLD HELLO WORLD 3</p>
+    <p class="paragraph-4">HELLO WORLD HELLO WORLD HELLO WORLD 4</p>
+
+    <div>
+        <p>HELLO WORLD ^_^</p>
+        <p>HELLO WORLD -_-</p>
+
+</div>
+<ol>
+    <li>
+        HELLO WORLD №1
+    </li>
+    <li>
+        HELLO WORLD №2
+    </li>
+    <li>
+        HELLO WORLD №3
+    </li>
+<ol>
+
+</body>
+
+</html>
